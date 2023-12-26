@@ -1,0 +1,732 @@
+Uri: http://www.outstaff.kz/
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\index.htm
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/about
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\about.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/blagoustroystvo-territorii
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\blagoustroystvo-territorii.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/contact-us
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\contact-us.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/contact-us?page=1
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\contact-us-1.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/contact-us?page=2
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\contact-us-2.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/demontazh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\demontazh.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/razgruzka-pogruzka-fur-i-vagonov
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\razgruzka-pogruzka-fur-i-vagonov.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/reshenie-nestandartnyh-zadach
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\reshenie-nestandartnyh-zadach.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/takelazhnye-raboty
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\takelazhnye-raboty.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/uborka-territorii
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\uborka-territorii.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/vynos-i-vyvoz-stroitelnogo-musora
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\vynos-i-vyvoz-stroitelnogo-musora.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services/zemlyanye-raboty
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services\zemlyanye-raboty.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services?page=1
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services-1.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/alt_services?page=2
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\alt_services-2.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/call
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\call.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/contact-us
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\contact-us.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/contacts
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\contacts.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/faq
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\faq.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/gallery
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\gallery.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/misc/draggable.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\draggable.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/drupal.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\drupal.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/misc/grippie.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\grippie.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/help.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\help.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/jquery-extend-3.4.0.js?v=1.10.2
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\jquery-extend-3.4.0.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/misc/jquery.once.js?v=1.2
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\jquery.once.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/misc/menu-collapsed.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\menu-collapsed.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/menu-expanded.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\menu-expanded.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/menu-leaf.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\menu-leaf.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/message-24-error.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\message-24-error.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/message-24-ok.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\message-24-ok.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/message-24-warning.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\message-24-warning.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/progress.gif
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\progress.gif
+Content Type: image/gif
+
+Uri: http://www.outstaff.kz/misc/throbber-active.gif
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\throbber-active.gif
+Content Type: image/gif
+
+Uri: http://www.outstaff.kz/misc/throbber-inactive.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\throbber-inactive.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/tree-bottom.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\tree-bottom.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/misc/tree.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\misc\tree.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/modules/field/theme/field.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\modules\field\theme\field.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/modules/node/node.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\modules\node\node.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/modules/search/search.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\modules\search\search.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/modules/system/system.base.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\modules\system\system.base.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/modules/system/system.menus.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\modules\system\system.menus.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/modules/system/system.messages.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\modules\system\system.messages.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/modules/system/system.theme.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\modules\system\system.theme.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/modules/user/user.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\modules\user\user.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/node/148
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\148.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/155
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\155.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/218
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\218.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/219
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\219.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/223
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\223.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/224
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\224.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/225
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\225.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/226
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\226.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/227
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\227.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/229
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\229.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/230
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\230.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/231
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\231.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/232
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\232.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/236
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\236.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/237
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\237.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/238
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\238.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/46
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\46.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/54
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\54.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/node/55
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\node\55.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/otzyvy
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\otzyvy.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/rss.xml
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\rss.xml
+Content Type: application/rss+xml
+
+Uri: http://www.outstaff.kz/services
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\services.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/services/autsorsing-lineynogo-personala
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\services\autsorsing-lineynogo-personala.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/services/contact-us
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\services\contact-us.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/services/pereezdy-lyuboy-slozhnosti
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\services\pereezdy-lyuboy-slozhnosti.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/services/uslugi-gruzchikov
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\services\uslugi-gruzchikov.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/services/uslugi-raznorabochih
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\services\uslugi-raznorabochih.html
+Content Type: text/html
+
+Uri: http://www.outstaff.kz/sites/all/libraries/colorbox/jquery.colorbox-min.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\libraries\colorbox\jquery.colorbox-min.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/modules/admin_menu/admin_devel/admin_devel.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\admin_menu\admin_devel\admin_devel.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/modules/captcha/captcha.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\captcha\captcha.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/modules/colorbox/js/colorbox.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\colorbox\js\colorbox.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/modules/colorbox/js/colorbox_inline.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\colorbox\js\colorbox_inline.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/modules/colorbox/js/colorbox_load.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\colorbox\js\colorbox_load.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/modules/colorbox/styles/default/colorbox_style.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\colorbox\styles\default\colorbox_style.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/colorbox/styles/default/colorbox_style.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\colorbox\styles\default\colorbox_style.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/modules/colorbox/styles/default/images/controls.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\colorbox\styles\default\images\controls.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/all/modules/colorbox/styles/default/images/loading_animation.gif
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\colorbox\styles\default\images\loading_animation.gif
+Content Type: image/gif
+
+Uri: http://www.outstaff.kz/sites/all/modules/ctools/css/ctools.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\ctools\css\ctools.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/ctools/images/status-active.gif
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\ctools\images\status-active.gif
+Content Type: image/gif
+
+Uri: http://www.outstaff.kz/sites/all/modules/date/date_api/date.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\date\date_api\date.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\date\date_popup\themes\datepicker.1.7.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/date/date_repeat_field/date_repeat_field.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\date\date_repeat_field\date_repeat_field.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/ds/layouts/ds_2col/ds_2col.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\ds\layouts\ds_2col\ds_2col.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\jquery_update\replace\jquery\1.10\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/modules/simple_taxonomy_menu/simple_taxonomy_menu.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\simple_taxonomy_menu\simple_taxonomy_menu.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/views/css/views.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\views\css\views.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/webform/css/webform.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\webform\css\webform.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/modules/webform/js/webform.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\modules\webform\js\webform.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/dist/css/ajax-loader.gif
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\dist\css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/dist/css/style.css?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\dist\css\style.css
+Content Type: text/css
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/dist/img/webmaster-logo.svg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\dist\img\webmaster-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/dist/js/bundle.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\dist\js\bundle.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/images/bckg.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\images\bckg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/images/close.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\images\close.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/images/next.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\images\next.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/images/prev.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\images\prev.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/all/themes/MyTheme/images/search_top.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\all\themes\MyTheme\images\search_top.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/003.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\003.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/1.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\1.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/2.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\2.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/3.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\3.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/9ac15f9c7a3eb503d9d811f77f8f66d3.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\9ac15f9c7a3eb503d9d811f77f8f66d3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/a76b6msfveyxjdrxigefb3zfqq_0.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\a76b6msfveyxjdrxigefb3zfqq_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/catalog.svg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\catalog.svg
+Content Type: image/svg+xml
+
+Uri: http://www.outstaff.kz/sites/default/files/default_images/q_294882_0.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\default_images\q_294882_0.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/fav_ikonka_2.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\fav_ikonka_2.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/gruzchiki.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\gruzchiki.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/home-services.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\home-services.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/image.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\image.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/instagram.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\instagram.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/languages/ru_sf74-Z4vfporK6WePzwzOjWHk-d3JffM5yEgMEmaSuU.js?rdjzlh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\languages\ru_sf74-Z4vfporK6WePzwzOjWHk-d3JffM5yEgMEmaSuU.js
+Content Type: application/javascript
+
+Uri: http://www.outstaff.kz/sites/default/files/logo.svg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\logo.svg
+Content Type: image/svg+xml
+
+Uri: http://www.outstaff.kz/sites/default/files/mashinist-krana-avtomobilnogo.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\mashinist-krana-avtomobilnogo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/menu.svg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\menu.svg
+Content Type: image/svg+xml
+
+Uri: http://www.outstaff.kz/sites/default/files/message.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\message.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/photo_2019-07-29_15-02-20.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\photo_2019-07-29_15-02-20.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/photo_2019-07-29_15-03-10.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\photo_2019-07-29_15-03-10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/photo_2019-08-05_17-32-33_0.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\photo_2019-08-05_17-32-33_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/photo_2019-08-05_17-32-43_0.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\photo_2019-08-05_17-32-43_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/photo_2019-08-05_17-33-05.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\photo_2019-08-05_17-33-05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/photo_2019-08-05_17-33-16_0.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\photo_2019-08-05_17-33-16_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/prof_obuchenie_0.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\prof_obuchenie_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/search.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\search.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/image_pages/public/photo_2019-07-29_15-02-20.jpg?itok=LX3qCfK9
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\image_pages\public\photo_2019-07-29_15-02-20.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/image_pages/public/photo_2019-07-29_15-03-10.jpg?itok=hRjGPH29
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\image_pages\public\photo_2019-07-29_15-03-10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/image_pages/public/photo_2019-08-05_17-32-33_0.jpg?itok=uDCDcMZV
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\image_pages\public\photo_2019-08-05_17-32-33_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/image_pages/public/photo_2019-08-05_17-32-43_0.jpg?itok=KQNVFWFu
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\image_pages\public\photo_2019-08-05_17-32-43_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/image_pages/public/photo_2019-08-05_17-33-05.jpg?itok=O1xkEmcS
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\image_pages\public\photo_2019-08-05_17-33-05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/image_pages/public/photo_2019-08-05_17-33-16_0.jpg?itok=rAdDoTDT
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\image_pages\public\photo_2019-08-05_17-33-16_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/include_height/public/003.jpg?itok=ABhfgY-b
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\include_height\public\003.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/include_height/public/9ac15f9c7a3eb503d9d811f77f8f66d3.jpg?itok=YLH4oOjd
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\include_height\public\9ac15f9c7a3eb503d9d811f77f8f66d3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/include_height/public/default_images/q_294882_0.png?itok=jF8u3TB6
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\include_height\public\default_images\q_294882_0.png
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/include_height/public/mashinist-krana-avtomobilnogo.jpg?itok=UvtnrAQE
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\include_height\public\mashinist-krana-avtomobilnogo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/include_height/public/thumb_1461247165-f3b0fb8a07.jpg?itok=PUm847r5
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\include_height\public\thumb_1461247165-f3b0fb8a07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/include_height/public/uborkaterritorii-1030x687.jpg?itok=U3qHxUDO
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\include_height\public\uborkaterritorii-1030x687.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/include_height/public/vyvoz-musora-gazeli.jpg?itok=mS0iocpc
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\include_height\public\vyvoz-musora-gazeli.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/include_height/public/_57.jpg?itok=TDf-4M-O
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\include_height\public\_57.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/injpeg/public/11.jpg?itok=0mvBy4hW
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\injpeg\public\11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/injpeg/public/22.jpg?itok=Cf2AwcIi
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\injpeg\public\22.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/injpeg/public/3.jpg?itok=81L35EL-
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\injpeg\public\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/injpeg/public/prof_obuchenie_0.jpg?itok=kfwls7XK
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\injpeg\public\prof_obuchenie_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/ourtech/public/photo_2019-07-29_15-02-20.jpg?itok=ReFinVtM
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\ourtech\public\photo_2019-07-29_15-02-20.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/ourtech/public/photo_2019-07-29_15-03-10.jpg?itok=5qGHV-Na
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\ourtech\public\photo_2019-07-29_15-03-10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/ourtech/public/photo_2019-08-05_17-32-33_0.jpg?itok=EWjNtTR3
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\ourtech\public\photo_2019-08-05_17-32-33_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/ourtech/public/photo_2019-08-05_17-32-43_0.jpg?itok=DS5tu1_x
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\ourtech\public\photo_2019-08-05_17-32-43_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/ourtech/public/photo_2019-08-05_17-33-05.jpg?itok=QT8a2TxT
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\ourtech\public\photo_2019-08-05_17-33-05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/ourtech/public/photo_2019-08-05_17-33-16_0.jpg?itok=zgPv56Z6
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\ourtech\public\photo_2019-08-05_17-33-16_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services/public/a76b6msfveyxjdrxigefb3zfqq_0.jpg?itok=P0Etl7a5
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services\public\a76b6msfveyxjdrxigefb3zfqq_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services/public/home-services.jpg?itok=R2HUUMuf
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services\public\home-services.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services/public/tecnicos-mantenimiento.jpg?itok=K5g8ZWCo
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services\public\tecnicos-mantenimiento.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/003.jpg?itok=DDw5vqUG
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\003.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/9ac15f9c7a3eb503d9d811f77f8f66d3.jpg?itok=CRP0OeCy
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\9ac15f9c7a3eb503d9d811f77f8f66d3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/a76b6msfveyxjdrxigefb3zfqq_0.jpg?itok=wl6X7Noq
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\a76b6msfveyxjdrxigefb3zfqq_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/default_images/q_294882_0.png?itok=50NKAomF
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\default_images\q_294882_0.png
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/gruzchiki.jpg?itok=JrIaF_Ft
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\gruzchiki.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/home-services.jpg?itok=u1Keh-fR
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\home-services.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/mashinist-krana-avtomobilnogo.jpg?itok=fhqhlw7b
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\mashinist-krana-avtomobilnogo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/prof_obuchenie_0.jpg?itok=jxLLiCXu
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\prof_obuchenie_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/tecnicos-mantenimiento.jpg?itok=9rMnHvVh
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\tecnicos-mantenimiento.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/thumb_1461247165-f3b0fb8a07.jpg?itok=PEqfnxBR
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\thumb_1461247165-f3b0fb8a07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/uborkaterritorii-1030x687.jpg?itok=83oO1myg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\uborkaterritorii-1030x687.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/vyvoz-musora-gazeli.jpg?itok=6XLW1rrU
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\vyvoz-musora-gazeli.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/styles/services_include/public/_57.jpg?itok=I7aHCoiA
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\styles\services_include\public\_57.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/tecnicos-mantenimiento.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\tecnicos-mantenimiento.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/telephone.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\telephone.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/thumb_1461247165-f3b0fb8a07.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\thumb_1461247165-f3b0fb8a07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/uborkaterritorii-1030x687.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\uborkaterritorii-1030x687.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/vyvoz-musora-gazeli.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\vyvoz-musora-gazeli.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/sites/default/files/whatsapp50px.png
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\whatsapp50px.png
+Content Type: image/png
+
+Uri: http://www.outstaff.kz/sites/default/files/_57.jpg
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\sites\default\files\_57.jpg
+Content Type: image/jpeg
+
+Uri: http://www.outstaff.kz/vakancy
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\vakancy.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=cyrillic,cyrillic-ext
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tKA.ttf
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\s\ptsans\v17\jizfRExUiTo99u79B_mh0O6tKA.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/54401887
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\watch\54401887
+Content Type: image/gif
+
+Uri: https://widgets.2gis.com/js/DGWidgetLoader.js
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\js\DGWidgetLoader.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?hl=ru
+File Name: D:\Biscuit\OUSTAFF WEB\www.outstaff.kz\recaptcha\api.js
+Content Type: text/javascript
+
